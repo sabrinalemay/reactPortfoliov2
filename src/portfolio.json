@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "E-Commerce-back-end",
+        "github": "https://github.com/sabrinalemay/E-Commerce-back-end",
+        "topics": "MySQL, Sequelize, dotenv, Express.js"
+    },
+    {
+        "id": 2,
+        "name": "Note-Taking-App",
+        "github": "https://github.com/sabrinalemay/Note-Taking-App",
+        "deploy": "https://module-11-note-taking-app.herokuapp.com/",
+        "topics": "Express.js, Heroku, JSON"
+    },
+    {
+        "id": 3,
+        "name": "README-Generator",
+        "github": "https://github.com/sabrinalemay/README-Generator",
+        "topics": "inquirer"
+    },
+    {
+        "id": 4,
+        "name": "My-Team-Info",
+        "github": "https://github.com/sabrinalemay/My-Team-Info",
+        "topics": "Node.js, jest, inquirer"
+    }
+]
